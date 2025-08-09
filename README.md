@@ -1,72 +1,103 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8000ff&height=200&section=header&text=Innovate%20with%20Zaid&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<!-- Profile README -->
 
-<!-- Typing Intro -->
-<p align="center">
-  <a href="https://github.com/InnovatewithZaid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=MCA+Student+@+RVITM;Full+Stack+Developer+In+Progress;Hackathon+Winner;AI+and+IoT+Enthusiast;Let's+Innovate!"/>
-  </a>
-</p>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Zaid!👋🏻;MCA+Student+%40+RVITM;President+of+CodeXplorers+Club;Passionate+Software+Innovator;Always+Learning+and+Building" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🚀 About Me  
-- 🎓 MCA Student @ RVITM & **President of CodeXplorers Club**  
-- 💡 Passionate about **Full Stack Development**, **AI**, and **IoT**  
-- 🏆 **Overall Champions** @ Syntaxia 2025 (Coding + Web Design)  
-- ⚡ Always building projects that **solve real problems**  
-- 🎯 Goal: Become a **Top-Tier Software Engineer** & Tech Innovator  
+## 💫 About Me
+🏫 Currently pursuing my MCA at RV Institute of Technology and Management.  
+🧑🏻‍💻 I am deeply passionate about idea-driven software development that keeps me fully engaged in VS Code for hours.  
+👨‍🏫 Serving as the President of the CodeXplorers Club at RVITM where I lead initiatives to inspire and guide fellow developers.  
+💬 I enjoy engaging in conversations on technology and almost anything else.  
+🌱 Currently working on innovative projects blending AI and full-stack development.  
+
+## 🌟 Beyond the Code
+📺 I enjoy anime which inspires my creativity and storytelling.  
+🚗 Driving helps me connect with the open roads.  
+🏊 Swimming clears my mind and keeps me focused.  
+🎵 Music is my constant coding companion.  
 
 ---
 
-## 🛠 Tech Stack
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/-Python-000?&logo=python) ![Java](https://img.shields.io/badge/-Java-000?&logo=java) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-000?&logo=git) ![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws) ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira) ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visualstudiocode)
+### 🌐 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_zoro._.98_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedzaid-techsavvy) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedzaid2555@outlook.com)  
 
 ---
 
-## 📌 Featured Projects  
-### 🔹 [Thermodynamic Enthalpy Calculator](https://github.com/InnovatewithZaid/Thermodynamic-Calculator)  
-A web app that calculates ΔH° and adiabatic temperature with mole-based accuracy.  
-**Tech:** Python, Flask, Bootstrap, JS  
+## 💻 Tech Stack
 
-### 🔹 [AgriSense – Precision Smart Irrigation](https://github.com/InnovatewithZaid/AgriSense)  
-IoT-based rover for smart irrigation with weather prediction & soil analysis.  
-**Tech:** Raspberry Pi, Arduino, Python, IoT  
+### **Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+
+### **Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) 
+
+### **Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+
+### **Data Science & Analytics**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InnovatewithZaid&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnovatewithZaid&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=InnovatewithZaid&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=InnovateWithZaid&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=InnovateWithZaid&theme=blueberry&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=InnovateWithZaid&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
-## 💬 Fun Facts
-- 🍜 Survives on code, coffee, and anime marathons  
-- 🚀 Once coded for **10 hours straight** during a hackathon  
-- 🎮 Gamer + Tech Explorer  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blueberry)  
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidsyed)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:zaid@example.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=InnovateWithZaid&limit=5&theme=blueberry&combine_all_yearly_contributions=true)  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:8000ff&height=100&section=footer"/>
+  💧 Remember to drink water and take deep breaths — your mind codes better when your body is happy.
 </p>
