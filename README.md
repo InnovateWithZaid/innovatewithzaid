@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Zaid!;Always+Learning+and+Building" alt="Typing SVG" />
 </h1>
 
----
 
 ## 💫 About Me
 🏫 MCA Graduate at RV Institute of Technology and Management.  
