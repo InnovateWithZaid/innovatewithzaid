@@ -10,9 +10,8 @@
 ## 💫 About Me
 🏫 MCA Graduate at RV Institute of Technology and Management.  
 🧑🏻‍💻 I am deeply passionate about idea-driven software development that keeps me fully engaged in VS Code for hours.  
-👨‍🏫 Serving as the President of the CodeXplorers Club at RVITM where I lead initiatives to inspire and guide fellow developers.  
 💬 I enjoy engaging in conversations on technology and almost anything else.  
-🌱 Currently working on innovative projects blending AI and full-stack development.  
+🌱 Currently working on an innovative mosque prayer timings and community mobile app.  
 
 ## 🌟 Beyond the Code
 📺 I enjoy anime which inspires my creativity and storytelling.  
@@ -45,18 +44,21 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+
 
 ### **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
-
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) **(BaaS)**
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
