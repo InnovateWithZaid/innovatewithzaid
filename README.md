@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me
-🏫 Currently pursuing my MCA at RV Institute of Technology and Management.  
+🏫 MCA Graduate at RV Institute of Technology and Management.  
 🧑🏻‍💻 I am deeply passionate about idea-driven software development that keeps me fully engaged in VS Code for hours.  
 👨‍🏫 Serving as the President of the CodeXplorers Club at RVITM where I lead initiatives to inspire and guide fellow developers.  
 💬 I enjoy engaging in conversations on technology and almost anything else.  
