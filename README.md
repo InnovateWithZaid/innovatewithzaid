@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Zaid!👋🏻;MCA+Student+%40+RVITM;President+of+CodeXplorers+Club;Passionate+Software+Innovator;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Zaid!;Always+Learning+and+Building" alt="Typing SVG" />
 </h1>
 
 ---
@@ -56,7 +56,7 @@
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
